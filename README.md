@@ -1,10 +1,13 @@
 ---
-title: Websites By Charlie Ajvki
-emoji: 🏆
-colorFrom: red
-colorTo: blue
+title: Websites by Charlie 🌿
+colorFrom: yellow
+colorTo: green
 sdk: static
-pinned: false
+emoji: 💎
+tags:
+  - deepsite-v4
 ---
 
-Check out the configuration reference at https://huggingface.co/docs/hub/spaces-config-reference
+# Websites by Charlie 🌿
+
+This project has been created with [DeepSite](https://deepsite.hf.co) AI Vibe Coding.
